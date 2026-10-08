@@ -1,0 +1,102 @@
+{
+    "requestType": "Search",
+    "requestParameters": {
+        "reportPayload": {
+            "reportDetail": {
+                "id": 15793,
+                "guid": "e7105530-2eed-4e9e-a690-99a3b39e18af",
+                "type": "SearchBased",
+                "description": "",
+                "name": "CCO - Aged Issues (&gt;12Mth)",
+                "pageId": 10494,
+                "asoStatus": "Normal",
+                "isHiddenFromMasterReportList": false,
+                "isHiddenFromIViews": false,
+                "languageId": 1,
+                "isSystem": false,
+                "reportType": "Global",
+                "updateInformation": {
+                    "createdDate": "2026-09-17T09:49:45.937Z",
+                    "lastUpdatedDate": "2026-09-17T09:49:45.937Z",
+                    "createdBy": 327,
+                    "updatedBy": 327,
+                    "createdByName": "Khou, James",
+                    "updatedByName": "Khou, James"
+                },
+                "authorization": {
+                    "users": [],
+                    "groups": []
+                }
+            },
+            "reportCriteria": {
+                "reportType": "Table",
+                "criteria": {
+                    "searchFilter": null,
+                    "moduleCriteria": {
+                        "id": 78809,
+                        "moduleId": 167,
+                        "levelIds": [
+                            62
+                        ],
+                        "keywordLevelIds": [],
+                        "sortFields": [
+                            {
+                                "fieldId": 2276,
+                                "sortType": "Descending"
+                            }
+                        ],
+                        "isKeywordModule": true,
+                        "buildoutRelationship": "Union",
+                        "leveledBuildoutOptions": null,
+                        "children": []
+                    },
+                    "keywords": "",
+                    "contentIdLayerMapItems": [],
+                    "searchDirection": "Both"
+                },
+                "showDateHeading": false,
+                "reportId": 15973,
+                "maxRecordCount": 0,
+                "isResultLimitPercent": false,
+                "pageSize": 250,
+                "showCriteriaHeading": false,
+                "fixColumnHeaders": false,
+                "refreshRate": null,
+                "isHiddenFromMasterReportList": false,
+                "isHiddenFromIViews": false,
+                "isCachingEnabled": false,
+                "cacheDuration": null,
+                "calendarOptions": null,
+                "networkOptions": null,
+                "containedDisplayFields": {},
+                "displayFields": [
+                    27074,
+                    2269,
+                    27876,
+                    2670,
+                    26899,
+                    27899,
+                    27750,
+                    26894,
+                    26901,
+                    26919,
+                    28602,
+                    2276,
+                    26911
+                ],
+                "displayFieldWidths": [],
+                "expandDetailViews": false,
+                "formatType": "ColumnFlat",
+                "groupingFieldIds": [],
+                "mapOptions": null,
+                "mapboxOptions": null,
+                "calendarDisplayFormat": 3,
+                "isEditable": false,
+                "hierarchiesForField": {},
+                "isTrendingEnabled": false
+            }
+        }
+    },
+    "includeHtmlFormatting": false,
+    "outputFormatType": "CSV"
+}

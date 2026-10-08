@@ -1,0 +1,2 @@
+﻿"ï»¿""Risk ID""","Risk Status","Risk Name","Division","Business Hierarchy","Risk Owner","Inherent Risk Rating","Residual Risk Rating","Residual vs Inherent Comparison","Count Active Effective Key Controls","Count Active Ineffective Key Controls","Count Active Partially Effective Key Controls","Count Active DE Not Assessed Key Controls","Count Active OE Not Assessed Key Controls","Count Active Not Assessed Key Controls"
+"RISK-000067","Active","Sarah's 3rd risky risk","CCO","GSB - CCO","","High","Medium","Residual Risk Rating < Inherent Risk Rating","0","0","0","0","0","1"
