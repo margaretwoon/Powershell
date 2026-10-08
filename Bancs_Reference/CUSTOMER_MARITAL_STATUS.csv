@@ -1,9 +1,0 @@
-CUST_MARITAL_STATUS_CODE,CUST_MARITAL_STATUS_DESC
-S , Single
-M , Married
-D , Divorced
-C , Defacto
-W , Widowed
-L , Living Apart
-N , Never Married
-U , Unknown
