@@ -1,0 +1,8 @@
+ALLIANZ_STATUS,STATUS_DESCRIPTION,POLICY_STATUS
+00,Current Not Paid,Active
+01,Current Paid,Active
+02,Rerate Required,Active
+03,Rerate Done,Active
+04,Expiry Notice Produced,Active
+08,Lapsed,Cancelled
+09,Cancelled,Cancelled

@@ -1,0 +1,10 @@
+COLM_STATUS,STATUS_DESC
+01,Pending
+02,Active
+03,Inactive
+04,Expired
+05,Top-Up Cancelled/Declined
+06,Top-up New/Release/Substitute
+07,Pending New/Release/Substitute
+20,Pending Loand Discharge and Delinking of Collateral
+40,Loan Discharge

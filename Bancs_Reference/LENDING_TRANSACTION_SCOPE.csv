@@ -1,0 +1,33 @@
+TRANSACTION_SCOPE,TRANSACTION_CODE
+Redraw,10068
+Redraw,10168
+Interest,10730
+Interest,10750
+Repayment,11010
+Repayment,11020
+Repayment,11040
+Repayment,11044
+Repayment,11045
+Repayment,11110
+Repayment,11120
+Repayment,11140
+Repayment,11144
+Repayment,11145
+Loan Payout,13030
+Write Off,13039
+Loan Payout,13045
+Loan Payout,13049
+Loan Payout,13130
+Loan Payout,13145
+Loan Payout,13149
+Interest,13500
+Repay Due,13506
+Interest,13552
+Interest,13600
+Interest,13700
+Repayment,16043
+Repayment,16045
+Repayment,16143
+Repayment,16145
+Rollover,17046
+Rollover,17146

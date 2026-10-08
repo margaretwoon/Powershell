@@ -1,0 +1,6 @@
+DEPOSIT_ACCOUNT_STATUS,DEPOSIT_ACCOUNT_STATUS_DESCRIPTION
+00,Open
+01,Dormant
+02,Dormant Unclaimed
+07,Closed
+08,Closed Last Period

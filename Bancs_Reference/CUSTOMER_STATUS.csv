@@ -1,0 +1,8 @@
+CUSM_CUSTOMER_STATUS,STATUS_DESCRIPTION	
+000,Active
+001,Whereabouts unknown
+002,Deceased
+003,Blacklisted
+004,Blist
+019,Closed
+999,Inactive

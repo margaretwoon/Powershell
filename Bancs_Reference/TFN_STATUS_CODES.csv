@@ -1,0 +1,11 @@
+TFN_STATUS_CODE,STATUS_DESCRIPTION
+0,active
+3,child
+4,pensioner
+5,other pensioner
+6,lodge
+7,exclude
+8,territory resident
+9,non-resident
+D,delete
+Y,not used (discontinued)

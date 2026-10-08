@@ -1,0 +1,11 @@
+DEPOSIT_ACCOUNT_OD_STATUS,DEPOSIT_ACCOUNT_OD_STATUS_DESC
+0,No Overdraft
+1,Application
+2,Approved in Principle
+3,Approved
+4,Accepted
+5,Declined
+6,Advanced
+7,Expired
+8,Cancelled
+9,Document Generated

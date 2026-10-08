@@ -1,0 +1,5 @@
+CUSC_LINK_STATUS,LINK_STATUS_DESCRIPTION	
+01,Active
+02,Closed
+91,Deleted
+92,Close-Deleted

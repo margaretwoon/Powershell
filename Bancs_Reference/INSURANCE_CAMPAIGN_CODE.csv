@@ -1,0 +1,8 @@
+CAMPAIGN_CODE,CAMPAIGN_DESC,AVAIL_HOME,AVAIL_MOTOR
+MU,Multi Product,Y,Y
+P1,12 for 11,N,Y
+P2,12 for 10,Y,N
+RB,Rate Breaker,Y,Y
+S2,Staff Discount,Y,Y
+VP,VIP Discount,Y,Y
+**,No Discount,Y,Y

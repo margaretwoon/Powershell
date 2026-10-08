@@ -1,0 +1,10 @@
+LENDING_ACCOUNT_REPAY_FREQ,LENDING_ACCOUNT_REPAY_FREQ_DESC
+01,Monthly
+03,Quarterly
+06,Half-yearly
+07,Weekly
+12,Yearly
+14,Fortnightly
+15,Twice monthly
+45,Every 45 days
+98,On rollover (end of term)

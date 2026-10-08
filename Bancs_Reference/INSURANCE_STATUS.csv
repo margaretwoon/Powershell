@@ -1,0 +1,9 @@
+INSU_STAT,INSU_STAT_DESCRIPTION
+1,Cover note
+2,New policy
+3,Renewed policy
+5,Active
+10,Cover expired less than 1 mth
+15,Cover expired more than 1 mth
+20,Cancelled
+40,Discharged

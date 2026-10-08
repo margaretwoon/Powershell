@@ -1,0 +1,164 @@
+Group,Product Class,Product Class Description,Risk Class,Risk Class Description,Premium Class,Premium Class Description,Classification,Cover Type,Policy Type Code,Policy Type - Description,Sub Type Code,Sub Type - Description
+GI,CMP,Combined Product,HCC,Home-Classic,FLB,Flood on Building,Home and Contents,1,17,HCC - Home-Classic,19,FLB - Flood
+GI,CMP,Combined Product,HCC,Home-Classic,FLC,Flood on Contents,Home and Contents,1,17,HCC - Home-Classic,20,FLC - Flood
+GI,CMP,Combined Product,HCC,Home-Classic,HOB,HOMEOWNERS PACKAGE  -  BUILDIN,Home and Contents,1,17,HCC - Home-Classic,21,HOB - Building
+GI,CMP,Combined Product,HCC,Home-Classic,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Home and Contents,1,17,HCC - Home-Classic,22,HOC - Contents
+GI,CMP,Combined Product,HCC,Home-Classic,IPP,PERSONAL PROPERTY (AAL Aust),Home and Contents,1,17,HCC - Home-Classic,28,IPP - Personal Property
+GI,CMP,Combined Product,HCC,Home-Classic,LCC,LANDLORD CONTENTS,Home and Contents,1,17,HCC - Home-Classic,23,LCC - Landlord
+GI,CMP,Combined Product,HCC,Home-Classic,RDO,RENT DEFAULT AND THEFTBY TENNA,Home and Contents,1,17,HCC - Home-Classic,31,RDO - Rent
+GI,CMP,Combined Product,HCC,Home-Classic,DPC,MOTOR,Home and Contents,1,17,HCC - Home-Classic,24,DPC - Motor
+GI,CMP,Combined Product,HGP,Home-Gold,FLB,Flood on Building,Home and Contents,1,18,HGP - Home-Gold,19,FLB - Flood
+GI,CMP,Combined Product,HGP,Home-Gold,FLC,Flood on Contents,Home and Contents,1,18,HGP - Home-Gold,20,FLC - Flood
+GI,CMP,Combined Product,HGP,Home-Gold,HOB,HOMEOWNERS PACKAGE  -  BUILDIN,Home and Contents,1,18,HGP - Home-Gold,21,HOB - Building
+GI,CMP,Combined Product,HGP,Home-Gold,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Home and Contents,1,18,HGP - Home-Gold,22,HOC - Contents
+GI,CMP,Combined Product,HGP,Home-Gold,LCC,LANDLORD CONTENTS,Home and Contents,1,18,HGP - Home-Gold,23,LCC - Landlord
+GI,CMP,Combined Product,HGP,Home-Gold,RDO,RENT DEFAULT AND THEFTBY TENNA,Home and Contents,1,18,HGP - Home-Gold,31,RDO - Rent
+GI,CMP,Combined Product,HPT,Home-Personal Property,FLB,Flood on Building,Home and Contents,1,19,HPT - Home-Personal Property,19,FLB - Flood
+GI,CMP,Combined Product,HPT,Home-Personal Property,FLC,Flood on Contents,Home and Contents,1,19,HPT - Home-Personal Property,20,FLC - Flood
+GI,CMP,Combined Product,HPT,Home-Personal Property,HOB,HOMEOWNERS PACKAGE  -  BUILDIN,Home and Contents,1,19,HPT - Home-Personal Property,21,HOB - Building
+GI,CMP,Combined Product,HPT,Home-Personal Property,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Home and Contents,1,19,HPT - Home-Personal Property,22,HOC - Contents
+GI,CMP,Combined Product,HPT,Home-Personal Property,IPP,PERSONAL PROPERTY (AAL Aust),Home and Contents,1,19,HPT - Home-Personal Property,28,IPP - Personal Property
+GI,CMP,Combined Product,HVP,Home-Vital Cover,FLB,Flood on Building,Home and Contents,1,20,HVP - Home-Vital Cover,19,FLB - Flood
+GI,CMP,Combined Product,HVP,Home-Vital Cover,FLC,Flood on Contents,Home and Contents,1,20,HVP - Home-Vital Cover,20,FLC - Flood
+GI,CMP,Combined Product,HVP,Home-Vital Cover,HOB,HOMEOWNERS PACKAGE  -  BUILDIN,Home and Contents,1,20,HVP - Home-Vital Cover,21,HOB - Building
+GI,CMP,Combined Product,HVP,Home-Vital Cover,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Home and Contents,1,20,HVP - Home-Vital Cover,22,HOC - Contents
+GI,CMP,Combined Product,HVP,Home-Vital Cover,IPP,PERSONAL PROPERTY (AAL Aust),Home and Contents,1,20,HVP - Home-Vital Cover,28,IPP - Personal Property
+GI,CMP,Combined Product,CVN,Caravan,FLC,Flood on Contents,Caravan,4,16,CVN - Caravan,20,FLC - Flood
+GI,CMP,Combined Product,CVN,Caravan,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Caravan,4,16,CVN - Caravan,22,HOC - Contents
+GI,CMP,Combined Product,CVN,Caravan,IPP,PERSONAL PROPERTY (AAL Aust),Caravan,4,16,CVN - Caravan,28,IPP - Personal Property
+GI,CMP,Combined Product,CVN,Caravan,CVN,08 - CARAVAN (AAL Aust),Caravan,4,16,CVN - Caravan,17,CVN - Caravan
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,FLC,Flood on Contents,Motor Vehicle,2,21,DPC - Motor-Comp Progressive,20,FLC - Flood
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,HOB,HOMEOWNERS PACKAGE  -  BUILDIN,Motor Vehicle,2,21,DPC - Motor-Comp Progressive,21,HOB - Building
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Motor Vehicle,2,21,DPC - Motor-Comp Progressive,22,HOC - Contents
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,IPP,PERSONAL PROPERTY (AAL Aust),Motor Vehicle,2,21,DPC - Motor-Comp Progressive,28,IPP - Personal Property
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,CVN,08 - CARAVAN (AAL Aust),Motor Vehicle,2,21,DPC - Motor-Comp Progressive,17,CVN - Caravan
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,DPC,MOTOR,Motor Vehicle,2,21,DPC - Motor-Comp Progressive,24,DPC - Motor
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,DPT,MOTOR THIRD PARTY,Motor Vehicle,2,21,DPC - Motor-Comp Progressive,27,DPT - Motor Vehicle - TP
+GI,CMP,Combined Product,DPC,Motor-Comprehensive Progressiv,FPI,FINANCE PROTECTION INSURANCE (,Motor Vehicle,2,21,DPC - Motor-Comp Progressive,18,FPI - Finance
+GI,CMP,Combined Product,DSC,Motor-Comprehensive Standard,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Motor Vehicle,2,22,DSC - Motor-Comprehensive Std,22,HOC - Contents
+GI,CMP,Combined Product,DSC,Motor-Comprehensive Standard,DPC,MOTOR,Motor Vehicle,2,22,DSC - Motor-Comprehensive Std,24,DPC - Motor
+GI,CMP,Combined Product,DSC,Motor-Comprehensive Standard,DSC,MOTOR,Motor Vehicle,2,22,DSC - Motor-Comprehensive Std,25,DSC - Motor
+GI,CMP,Combined Product,DPT,Motor-Third Party Property Dam,FLC,Flood on Contents,Motor Vehicle,2,23,DPT - Motor-TPP Damage,20,FLC - Flood
+GI,CMP,Combined Product,DPT,Motor-Third Party Property Dam,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Motor Vehicle,2,23,DPT - Motor-TPP Damage,22,HOC - Contents
+GI,CMP,Combined Product,DPT,Motor-Third Party Property Dam,IPP,PERSONAL PROPERTY (AAL Aust),Motor Vehicle,2,23,DPT - Motor-TPP Damage,28,IPP - Personal Property
+GI,CMP,Combined Product,DPT,Motor-Third Party Property Dam,DPC,MOTOR,Motor Vehicle,2,23,DPT - Motor-TPP Damage,24,DPC - Motor
+GI,CMP,Combined Product,DPT,Motor-Third Party Property Dam,DPT,MOTOR THIRD PARTY,Motor Vehicle,2,23,DPT - Motor-TPP Damage,27,DPT - Motor Vehicle - TP
+GI,CMP,Combined Product,DST,Motor-Third Party Property Dam,DST,MOTOR,Motor Vehicle,2,24,DST - Motor-TPP Damage,26,DST - Motor Vehicle
+GI,MCY,Motorcycle,MCC,Motor Cycle Comprehensive,MCC,MOTOR CYCLE (AAL Aust),Motor Cycle,2,25,MCC - Motor Cycle - Comp,29,MCC - Motor Cycle
+GI,MCY,Motorcycle,MCP,Motor Cylcle Third Party,MCP,MOTOR CYCLE THIRD PARTY (AAL Aust),Motor Cycle,2,26,MCP - Motor Cycle - TP,30,MCP - Motor Cycle - TP
+COM,AFC,AUSTRALIAN FARM COVER,ACE,Engineering,REH,ELECTRONIC EQUIPMENT (AAL Aust,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,ACE,Engineering,RES,ELECTRONIC EQUIPMENT SOFT (AAL,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFB,Miscellaneous Accident,RPB,RPP  -  BURGLARY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFD,Personal Accident,RAW,DISABILITY ACCIDENT WEEKLY (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFD,Personal Accident,RCB,DISABILITY CAPITAL BENEFITS (A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFD,Personal Accident,RSW,DISABILITY SICKNESS WEEKLY (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFF,Commercial Fire,RPF,RPP  -  FIRE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFE,General Property,WES,GENERAL PROPERTY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFI,Miscellaneous Accident,OTI,TAX AUDIT,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFL,Primary General Liability,RPL,RPP  -  COMBINED LIABILITY (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,AFM,Engineering,RPM,RPP  -  MACH. BREAKDOWN (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,CGP,General Property,GEN,01 - GENERAL PROPERTY (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,CON,Engineering,MBD,06 - MACHINERY BREAKDOWN (AAL ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,DPC,Motor-Comprehensive Progressiv,DPC,MOTOR,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,DST,Motor-Third Party Property Dam,DST,MOTOR,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,HCC,Home-Classic,HOB,HOMEOWNERS PACKAGE  -  BUILDIN,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,HCC,Home-Classic,HOC,HOMEOWNERS PACKAGE  -  CONTENT,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,HPT,Home-Personal Property,IPP,PERSONAL PROPERTY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,MVC,Non-Heavy Motor Stand Alone,VFF, MOTOR SCHEDULE FLEETS (AAL Au,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,MVT,Heavy Motor Stand Alone,RLH,HEAVY MOTOR LONG HAUL (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,AFC,AUSTRALIAN FARM COVER,MVT,Heavy Motor Stand Alone,RSH,HEAVY MOTOR  -  SHORT HAUL (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,CGP,General Property,GEN,01 - GENERAL PROPERTY (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COA,Miscellaneous Accident,MAD,CPI  -  CPA ACCIDENTAL DAMAGE ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COB,Miscellaneous Accident,BUR,01 - BURGLARY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COD,Personal Accident,DAW,DISABILITY ACCIDENT WEEKLY (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COD,Personal Accident,DCB,DISABILITY CAPITAL BENEFITS (A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COD,Personal Accident,DSW,DISABILITY SICKNESS WEEKLY (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COE,Miscellaneous Accident,FID,01 - FIDELITY GUARANTEE (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COF,Commercial Fire,FIR,01 - FIRE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COF,Commercial Fire,FLF,Flood on Fire,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COG,Miscellaneous Accident,GLS,01 - GLASS BREAKAGE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COM,Miscellaneous Accident,MMO,MONEY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,CON,Engineering,MBD,06 - MACHINERY BREAKDOWN (AAL ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COP,Commercial Fire,FLI,Flood on Business Interuption,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COP,Commercial Fire,LOP,01 - CONSEQUENTIAL LOSS (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COQ,Engineering,EEX,06 - EQUIPMENT (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COQ,Engineering,EHW,06 - ELECTRONIC EQUIP (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,COQ,Engineering,ESW,06 - ELECTRONIC EQUIP SOFT. (A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,OBL,Primary General Liability,LPR,PRODUCTS LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,COM,BUSINESS PACK,OBL,Primary General Liability,LPU,PUBLIC LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,CGP,General Property,GEN,01 - GENERAL PROPERTY (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COA,Miscellaneous Accident,MAD,CPI  -  CPA ACCIDENTAL DAMAGE ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COB,Miscellaneous Accident,BUR,01 - BURGLARY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COE,Miscellaneous Accident,FID,01 - FIDELITY GUARANTEE (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COF,Commercial Fire,FIR,01 - FIRE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COF,Commercial Fire,FLF,Flood on Fire,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COG,Miscellaneous Accident,GLS,01 - GLASS BREAKAGE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COM,Miscellaneous Accident,MMO,MONEY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,CON,Engineering,MBD,06 - MACHINERY BREAKDOWN (AAL ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COP,Commercial Fire,FLI,Flood on Business Interuption,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COP,Commercial Fire,LOP,01 - CONSEQUENTIAL LOSS (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COQ,Engineering,EEX,06 - EQUIPMENT (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COQ,Engineering,EHW,06 - ELECTRONIC EQUIP (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,COQ,Engineering,ESW,06 - ELECTRONIC EQUIP SOFT. (A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,DPC,Motor-Comprehensive Progressiv,DPC,MOTOR,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,DST,Motor-Third Party Property Dam,DST,MOTOR,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,MTI,New Professional Indemnity,PII,PROFESSIONAL INDEMNITY (AAL Au,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,MVC,Non-Heavy Motor Stand Alone,VFF, MOTOR SCHEDULE FLEETS (AAL Au,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,OBL,Primary General Liability,LPR,PRODUCTS LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,OBL,Primary General Liability,LPU,PUBLIC LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,MPK,MOTOR TRADES PACK,OTI,General Property,OTI,TAX AUDIT,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,CGP,General Property,GEN,01 - GENERAL PROPERTY (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COB,Miscellaneous Accident,BUR,01 - BURGLARY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COE,Miscellaneous Accident,FID,01 - FIDELITY GUARANTEE (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COF,Commercial Fire,FIR,01 - FIRE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COF,Commercial Fire,FLF,Flood on Fire,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COG,Miscellaneous Accident,GLS,01 - GLASS BREAKAGE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,CON,Engineering,MBD,06 - MACHINERY BREAKDOWN (AAL ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COP,Commercial Fire,FLI,Flood on Business Interuption,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COP,Commercial Fire,LOP,01 - CONSEQUENTIAL LOSS (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COQ,Engineering,EEX,06 - EQUIPMENT (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COQ,Engineering,EHW,06 - ELECTRONIC EQUIP (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,COQ,Engineering,ESW,06 - ELECTRONIC EQUIP SOFT. (A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,OBL,Primary General Liability,LPR,PRODUCTS LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,OBL,Primary General Liability,LPU,PUBLIC LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,OMO,Miscellaneous Accident,CSH,01 - MONEY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,OFF,OFFICE PACK,OTI,General Property,OTI,TAX AUDIT,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,CGP,General Property,GEN,01 - GENERAL PROPERTY (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COA,Miscellaneous Accident,MAD,CPI  -  CPA ACCIDENTAL DAMAGE ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COB,Miscellaneous Accident,BUR,01 - BURGLARY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COD,Personal Accident,DAW,DISABILITY ACCIDENT WEEKLY (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COD,Personal Accident,DCB,DISABILITY CAPITAL BENEFITS (A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COD,Personal Accident,DSW,DISABILITY SICKNESS WEEKLY (AA,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COE,Miscellaneous Accident,FID,01 - FIDELITY GUARANTEE (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COF,Commercial Fire,FIR,01 - FIRE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COF,Commercial Fire,FLF,Flood on Fire,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COG,Miscellaneous Accident,GLS,01 - GLASS BREAKAGE (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COM,Miscellaneous Accident,MMO,MONEY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,CON,Engineering,MBD,06 - MACHINERY BREAKDOWN (AAL ,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COP,Commercial Fire,FLI,Flood on Business Interuption,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COP,Commercial Fire,LOP,01 - CONSEQUENTIAL LOSS (AAL A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COQ,Engineering,EEX,06 - EQUIPMENT (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COQ,Engineering,EHW,06 - ELECTRONIC EQUIP (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,COQ,Engineering,ESW,06 - ELECTRONIC EQUIP SOFT. (A,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,OBL,Primary General Liability,LPR,PRODUCTS LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,OBL,Primary General Liability,LPU,PUBLIC LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,RPK,RETAIL PACK,OTI,General Property,OTI,TAX AUDIT,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,TSP,TRADE AND SERVICE PACK,CGP,General Property,GEN,01 - GENERAL PROPERTY (AAL Aus,Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,TSP,TRADE AND SERVICE PACK,OBL,Primary General Liability,LPR,PRODUCTS LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+COM,TSP,TRADE AND SERVICE PACK,OBL,Primary General Liability,LPU,PUBLIC LIABILITY (AAL Aust),Commercial,5,27,Commercial (Allianz),32,Commercial
+MARINE,MHA,Marine Aviation,MHA,Personal Accident,MHA,PLEASURE CRAFT ,Boat,3,28,MHA - Marine Aviation,33,MHA - Pleasure Craft
+MARINE,MHH,Marine Aviation,MHH,Club Marine,MHH,MARINE HULL,Boat,3,29,MHH - Marine Aviation,34,MHH - Marine Hull
+MARINE,MHL,Marine Aviation,MHL,Club Marine,MHL,MARINE HULL - LIABILITY,Boat,3,30,MHL - Marine Aviation,35,MHL - Marine Hull Liability
+GI,LLP,Landlord Product,FLM,Landlords Non Strata,FLB,Flood on Building,Landlords,1,31,FLM - Landlords,19,FLB - Flood
+GI,LLP,Landlord Product,FLM,Landlords Non Strata,FLC,Flood on Contents,Landlords,1,31,FLM - Landlords,20,FLC - Flood
+GI,LLP,Landlord Product,FLM,Landlords Non Strata,FLM,Free Standing Building,Landlords,1,31,FLM - Landlords,36,FLM - Building
+GI,LLP,Landlord Product,FLM,Landlords Non Strata,LCC,LANDLORD CONTENTS,Landlords,1,31,FLM - Landlords,23,LCC - Landlord
+GI,LLP,Landlord Product,FLM,Landlords Non Strata,RDO,RENT DEFAULT AND THEFTBY TENNA,Landlords,1,31,FLM - Landlords,31,RDO - Rent
+GI,LLP,Landlord Product,STM,Landlord Strata Mortgage Protection,FLC,Flood on Contents,Landlords,1,32,STM - Landlords,20,FLC - Flood
+GI,LLP,Landlord Product,STM,Landlord Strata Mortgage Protection,LCC,LANDLORD CONTENTS,Landlords,1,32,STM - Landlords,23,LCC - Landlord
+GI,LLP,Landlord Product,STM,Landlord Strata Mortgage Protection,RDO,RENT DEFAULT AND THEFTBY TENNA,Landlords,1,32,STM - Landlords,31,RDO - Rent
+GI,CMP,COMBINED PRODUCT,HCC,Home Classic ,DWC,HOME - Domestic Workers Compensation,Home and Contents,01,0017,HCC - Home-Classic,037,DWC - Home
+GI,CMP,COMBINED PRODUCT,HGP,Home Prestige,DWC,HOME - Domestic Workers Compensation,Home and Contents,01,0018,HGP - Home-Gold,037,DWC - Home
+GI,CMP,COMBINED PRODUCT,HVP,Home Vital,DWC,HOME - Domestic Workers Compensation,Home and Contents,01,0020,HVP - Home-Vital Cover,037,DWC - Home
+GI,LLP,Landlord Product,STM,LANDLORD STRATA BUILDING,FLB,FLOOD BUILDING,Landlords,01,0032,STM - Landlords,019,FLB - Flood
+GI,LLP,Landlord Product,STM,LANDLORD STRATA BUILDING,STM,STRATA TITLE,Landlords,01,0032,STM - Landlords,038,STM - Strata Title

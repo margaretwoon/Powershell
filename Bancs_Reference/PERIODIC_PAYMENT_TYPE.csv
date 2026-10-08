@@ -1,0 +1,6 @@
+TYPE,TYPE_DESC_1,TYPE_DESC_2
+900,(900) Internal PP,Internal xfer to CUA acct
+901,,Internal xfer from CUA acct
+902,(902) External PP,Debit to CUA acct & Credit to external acct
+903,(903) D/D Outwards,Credit CUA acct & Debit external acct
+904,(904) External PP Cheque,Pay by chq

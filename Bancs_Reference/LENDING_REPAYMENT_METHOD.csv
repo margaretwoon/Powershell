@@ -1,0 +1,9 @@
+LENDING_REPAYMENT_METHOD_ID,LENDING_REPAYMENT_METHOD_DESC
+0,Not Applicable
+1,Other Repayment Method
+2,Auto Standing Order (ASO)
+3,Manual Periodical Payment (MPP)
+4,Direct Credit
+5,Salary Sacrifice
+6,Principle Repayment
+7,External Transfer

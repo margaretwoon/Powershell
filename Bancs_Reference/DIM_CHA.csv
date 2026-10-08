@@ -1,0 +1,15 @@
+Channel_L1_Ref,Channel_L1_Name,Channel_L2_Ref,Channel_L2_Name,Sales_Channel_L1_Name,Sales_Channel_L2_Name,Notes
+CHA_BRANCH,Branch Channel,BRANCH,Branch,Organic,Retail Branches,Branches
+CHA_BRANCH,Branch Channel,BRWHLS,Branch HLS,Organic,Retail Branches,Branch with HLS
+CHA_BRANCH,Branch Channel,BRWOHLS,Branch Non HLS,Organic,Retail Branches,Branch without HLS
+CHA_DIGITAL,Digital Channel,DIGITL,Digital,Organic,Digital/Online,Mobile / WebBanker / Website
+CHA_CUADIR,CUA Direct Channel,CUADIR,CUA Direct,Organic,CUA Direct,Call Centre / Phone
+CHA_BROKER,Broker Channel,BROKER,Broker,Broker,Broker BDMs,Broker Sales Admin - Mortage Choice
+CHA_MOBANK,Mob Banker Channel,MOBANK,Mobile Bankers,Organic,Business Development,
+CHA_SMLBUS,Small Bus Channel,SMLBUS,Small Business,Organic,Commercial Finance,
+CHA_OTHER,Other Channels,ATM,ATM,Other,Transaction Channel,
+CHA_OTHER,Other Channels,EFTPOS,EFTPOS,Other,Transaction Channel,
+CHA_OTHER,Other Channels,VISA,VISA,Other,Transaction Channel,
+CHA_OTHER,Other Channels,GYROPOST,GYROPOST,Other,Transaction Channel,
+CHA_OTHER,Other Channels,OTHBSUPP,Other Banking Support Transactions,Other,Transaction Channel,"Excludes ATM, EFTPOS, VISA, GYRO"
+CHA_NOCHAL,No Channels,NOCHAL,No Channel,Other,No Channel,

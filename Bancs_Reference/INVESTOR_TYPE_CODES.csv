@@ -1,0 +1,9 @@
+INVESTOR_TYPE_CODE,INVESTOR_TYPE_DESCRIPTION
+I,Individual
+D,Deceased
+P,Partnership
+S,Super Fund
+T,Trustee
+C,Company
+G,Government
+O,Other
