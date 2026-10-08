@@ -1,0 +1,1467 @@
+{
+    "contains": [
+        {
+            "key": "testbasis6s3s-20260921-uaU1LK4T5mzL.csv",
+            "headers": {
+                "ETag": "\"1aa21d0da3309fdfe510370abf1b7639\"",
+                "Digest": "sha512=cdaea314c171341a8cd81bf3bb93c5465a118cc89427c536600b8ad106509af6e660e9dd03a8ab46d576f02979db8ddb74c18c0f4b64f3c24e86b50567d9b761",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 01:19:39 GMT",
+                "Content-Length": 288
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uaU1LK4T5mzL",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "testbasis6s3s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T10:19:29"
+            }
+        },
+        {
+            "key": "swaps-20260923-uMu4EPM7d4wg.bbg",
+            "headers": {
+                "ETag": "\"430454cac7aadc8b720045a9f551af37\"",
+                "Digest": "sha512=4bdb7f0e61a7d24772a65d8a5cad180052da3ba4c3566e2d7a47cf46373f2dcadfb9446c356cfbeba72aa288754e3ffe594c252c91768cac13a0e6ef4810440e",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:32:17 GMT",
+                "Content-Length": 247
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMu4EPM7d4wg",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "swaps-20260923-swapsDataReqV1.csv",
+            "headers": {
+                "ETag": "\"e85d243e3ad6d16b81dc5fffeab7efa9\"",
+                "Digest": "sha512=0a7452cbca3bc4a6b5ce03ec386b69357635f01dbd297e1de9d4ae68aa396af9dcde63f93574a6b80d7483c99ab4b0204b912d6c8dd3d0fde07ece04f5e1bb77",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:17 GMT",
+                "Content-Length": 288
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "swapsDataReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "swaps-20260922-uMu4EPM7d4wg.csv",
+            "headers": {
+                "ETag": "\"70fa08c7e7058eb6b27cf3545394af89\"",
+                "Digest": "sha512=dd7cb179e6a13a3629cbbd28561c8268004e0a0c01e8333f67151186ffe4689d02850f0ed5373ada2c5a253e6f72142929db703f180bab1feda159f30d79ff45",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:25 GMT",
+                "Content-Length": 294
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMu4EPM7d4wg",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "swaps-20260921-uMu4EPM7d4wg.csv",
+            "headers": {
+                "ETag": "\"2792d5705296d7b2e501ff1c1a857495\"",
+                "Digest": "sha512=e6f4673324d0656ee56d9d001a1d45bdf3acf69aa686df830348b7e3ba1ad8881acc0c2c6de64e627864fe00271c3fd29bb8a1b136a7a3ea6ed90539e62f3693",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:22 GMT",
+                "Content-Length": 293
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMu4EPM7d4wg",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "swaps-20260918-uMu4EPM7d4wg.csv",
+            "headers": {
+                "ETag": "\"12df43007379256e0b3db79bd28f71d3\"",
+                "Digest": "sha512=bda10ccaaaa8e4446aacadbd11859961bfd7439e4bab74d3089723dc053de27a0e5868ca59a8f6bc4c042145dd6f8a628c0686c81c7d07cc6768e9c51f901b99",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:17 GMT",
+                "Content-Length": 295
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMu4EPM7d4wg",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "swaps-20260918-uHGnLjbYEqw3.bbg",
+            "headers": {
+                "ETag": "\"010d27459e7f133486018a7e7aef2ecc\"",
+                "Digest": "sha512=d6fabcfc00efece442019f2e3ef5ad8738c1ef114a7c813bc8b30551fe6e680670ca2e07dfa75e0efe8008ce4c04ab758eaaaa4faf39b94a922d6b54c272027a",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:40:25 GMT",
+                "Content-Length": 251
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uHGnLjbYEqw3",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "swaps-20260917-uMu4EPM7d4wg.csv",
+            "headers": {
+                "ETag": "\"1e6325979ced2d8a8223ba524be4b582\"",
+                "Digest": "sha512=77be38d89ce24a0e578178268e34d15bf678285a5b9d3c741eab74251468648317bdc345d2595f3692b7067802893ccd436ce1a22114bc2fde947a2058907730",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:24 GMT",
+                "Content-Length": 300
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMu4EPM7d4wg",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "swaps-20260917-uHGnLjbYEqw3.csv",
+            "headers": {
+                "ETag": "\"15e12c59e319a2111ca4d5e647db5959\"",
+                "Digest": "sha512=5544d725cf093ebcb67f51e6b753973ceaae9180786005e7eda4141cac7d7223786ec99b625218a85f3860de35cf226dd9f59fe23360b2118e163e18006724ee",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 09:00:54 GMT",
+                "Content-Length": 296
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uHGnLjbYEqw3",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "swaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T18:00:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260923-uZeqogxxHtoa.bbg",
+            "headers": {
+                "ETag": "\"e4537048d17e98ba73e8738af8de661d\"",
+                "Digest": "sha512=80a83d9907a91f6576af4be2d747744b5d9658c6bf2e950cdd8f00b9aae06aeb06abeeb00e638c5000426f4ec552c32bc818fbc321d9e099a82daa619495ae7f",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:36:40 GMT",
+                "Content-Length": 259
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uZeqogxxHtoa",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260923-onIndexSwapsDataReqV1.csv",
+            "headers": {
+                "ETag": "\"0c4f1a11fa68c9bd6dd074dca2bd5e48\"",
+                "Digest": "sha512=2fc9a5082eff290d93c85c11d35779392efbf4a56de03799046c70f44cb75af4a4900d01149215b460f8cdf05e2a32803deb5e4de30ff0f7679f52f5c6e37dfe",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:19 GMT",
+                "Content-Length": 415
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "onIndexSwapsDataReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260922-uZeqogxxHtoa.csv",
+            "headers": {
+                "ETag": "\"413cf2e96cead82ac70649419d57c6bd\"",
+                "Digest": "sha512=2ddb9d5580cb4f310bba9998653e5dac9f8666ba89227f524480957d0174eebcb404dca04bc85e65bff23c8fc0118d742182d22997c370254fa991fc45db9cd6",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:17 GMT",
+                "Content-Length": 425
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uZeqogxxHtoa",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260921-uZeqogxxHtoa.csv",
+            "headers": {
+                "ETag": "\"3c7c2f9d7542657da303cdf0f8fa8f7f\"",
+                "Digest": "sha512=eb14a9a04aa77981e3a228dafe135afe8764151c053fb88f214187dba6e6fb2c88e96e326ecab3bded07904e34a98758d08c52971ea34885a2e09add48ce8298",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:26 GMT",
+                "Content-Length": 426
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uZeqogxxHtoa",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260918-uZeqogxxHtoa.csv",
+            "headers": {
+                "ETag": "\"51b533ec2899265b8e169556606b1244\"",
+                "Digest": "sha512=1273b410cea8abd35e39746bd1c64d4b3ac0b2f69b2579e0fa1abc0970c319aef1de66057db6f60c1c5fcac6c5ca8900404fb9ae0336b2ddb47c76091d43d8dd",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:28 GMT",
+                "Content-Length": 424
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uZeqogxxHtoa",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260918-uMrCZyAjkmYS.bbg",
+            "headers": {
+                "ETag": "\"e23fc619d09e2fb61ba9e69b74890ecf\"",
+                "Digest": "sha512=c77e8eea1914323ff6d51c47ea4bd70c290fa1753ffb4fed4794016b23691a3f9e72ce109c92b42c005b8578ab198891ba5abe6cb984d472f3ef08d8034405f5",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:43:53 GMT",
+                "Content-Length": 263
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMrCZyAjkmYS",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260918-uKC7xFSMDPbS.bbg",
+            "headers": {
+                "ETag": "\"6364b89b03048b56a89b5a683efb05a3\"",
+                "Digest": "sha512=7c99a7de25609b3564986d23d93260a76334297e3bb57b41ff340303d00d46990ef7cadc02d0d902782cb28e78ff024b3c7ac0359e29f94a6aef62ed4471fd26",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:42:49 GMT",
+                "Content-Length": 259
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uKC7xFSMDPbS",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260917-uZeqogxxHtoa.csv",
+            "headers": {
+                "ETag": "\"143c504f132b949b2e8cc41a03150724\"",
+                "Digest": "sha512=5a2128b9f98666ace70db558fd703aced22e5985139ee4971556a25471650844cf8e927dea2140865073ef55e8c4f5a64c9d725c6f55389d78b43b57526207cf",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:21 GMT",
+                "Content-Length": 418
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uZeqogxxHtoa",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260917-uMrCZyAjkmYS.csv",
+            "headers": {
+                "ETag": "\"cba9f4f9a5b7539f4adf3e0de54afc83\"",
+                "Digest": "sha512=cf3b8816dce4dceea6f7c749f3269a090c7b9c42f99ae8f36356c063e701c25dd2b405777a200e6b3a4d160201e4059820acb64e5830738ce7c5faae18863c9d",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:00:19 GMT",
+                "Content-Length": 419
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMrCZyAjkmYS",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:00:00"
+            }
+        },
+        {
+            "key": "overnightIndexSwaps-20260917-uKC7xFSMDPbS.csv",
+            "headers": {
+                "ETag": "\"5fba622976e8a0b56a905d605d33edfb\"",
+                "Digest": "sha512=30314f619d4e20778173c0d4279edb94a83159d5bc9731ccfcacad343b9949856dc564b15963a5d9806ca5666acf2322a74b18b8c3fdd887c10c59b952fa01e5",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 09:01:15 GMT",
+                "Content-Length": 423
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uKC7xFSMDPbS",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "overnightIndexSwaps",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T18:00:00"
+            }
+        },
+        {
+            "key": "isin-20260923-uAnQP5HXaZXZ.bbg",
+            "headers": {
+                "ETag": "\"92eca08e759d3ca25e16670f80036a7e\"",
+                "Digest": "sha512=12878dc425f6b66755620d76e0c4d3d51c44864aa088a3795cb2d732b375c099c6471b317dc4da6a66b1a4282805218afb2d40d28b08b33f75fd397defcc046e",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:54:00 GMT",
+                "Content-Length": 248
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAnQP5HXaZXZ",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "isin",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "isin-20260922-uAnQP5HXaZXZ.csv",
+            "headers": {
+                "ETag": "\"702a6dbc6d26cc50b6ff879a67a0e534\"",
+                "Digest": "sha512=59b317e38199ba770e25852b3480c92a8dd2f1e95f6a860989a9ff4f67bbb62485766f5f2a11c684483b61a956cfc3a0f7a72ef5d2a6f03ad3c11a2841b5a8d5",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:20 GMT",
+                "Content-Length": 217
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAnQP5HXaZXZ",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "isin",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "isin-20260921-uAnQP5HXaZXZ.csv",
+            "headers": {
+                "ETag": "\"6c50cecd1304cafa5605bd04d5379587\"",
+                "Digest": "sha512=7126ed1aa96a896d0d01f1d92667c7cc4384f40ec68b16c92e161b9243c7b91a57b4c17fb323ad465ab27a3a740eb5419e70111db62b2ed2172c6459d8a15323",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:14 GMT",
+                "Content-Length": 217
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAnQP5HXaZXZ",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "isin",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "isin-20260918-uAnQP5HXaZXZ.csv",
+            "headers": {
+                "ETag": "\"80494927c42dbd7581bbfcd40ef95a33\"",
+                "Digest": "sha512=6f203ae043838a80617b39a1f208f568143a29789ad2ff01b969954c3dd6cac4499139ba21529bf1795635abfb500ab929b260f4d5949325e93707e837165a7a",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:16 GMT",
+                "Content-Length": 218
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAnQP5HXaZXZ",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "isin",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "isin-20260917-uAnQP5HXaZXZ.csv",
+            "headers": {
+                "ETag": "\"e86e46d6ea06dcb7de5b7a62d10735ca\"",
+                "Digest": "sha512=ba3c1a2bc9518847f79b47798218e40c91f6cbd0ee9e5799d075f649f4a567ea7a4fd8c4419cb2b5ff57269ffeb94429ec6df1c7a5c61d15844d9126adb90073",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:21 GMT",
+                "Content-Length": 217
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAnQP5HXaZXZ",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "isin",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "globalMarkets-20260923-uKKoQTvXrq22.bbg",
+            "headers": {
+                "ETag": "\"64878f2b61bb74b50f6518f6b3bb80af\"",
+                "Digest": "sha512=0a6544a6204a4a98ede16a9d9783bd150018926fa3c7cbad80ad9bbe856cbf1c3c51ebd48260e8cac3fb65a473f0ad1119d3f4156a213654c85dfd4745ce2192",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:25:28 GMT",
+                "Content-Length": 257
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uKKoQTvXrq22",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "globalMarkets",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "globalMarkets-20260923-globalMarketsReqV1.csv",
+            "headers": {
+                "ETag": "\"4d0c9bf34747654d7845ca162a740e7f\"",
+                "Digest": "sha512=486a747943fb92f95cc1c358879c63466c250ae4d631558f465a2e6903444e747216a03cefed4e7744bbadce45260a431911187cad255038c5a34697dfe819f7",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:20 GMT",
+                "Content-Length": 955
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "globalMarketsReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "globalMarkets",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "globalMarkets-20260922-uKKoQTvXrq22.csv",
+            "headers": {
+                "ETag": "\"dcacc506636ca060320b204ddad5fee7\"",
+                "Digest": "sha512=23107a37e92d5c0392f18645e1a2484e332d7d29d46f8f101ec7fdfa5fcc18d0da6d4541b6206aae4d34d190591a45022ba64410b5b472e772366faf0581719b",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:21 GMT",
+                "Content-Length": 960
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uKKoQTvXrq22",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "globalMarkets",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "globalMarkets-20260921-uKKoQTvXrq22.csv",
+            "headers": {
+                "ETag": "\"858304dc083cc838187d93e27653d825\"",
+                "Digest": "sha512=288e45e808ad5f1cc60bbde89c7e4ec065f24b30f153ed6b7a96fadd972fd724b09cffd058b36a429af3e354e0fdadd1127c9631dcebe5ef7bfa4a4400dd037d",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:18 GMT",
+                "Content-Length": 958
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uKKoQTvXrq22",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "globalMarkets",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "globalMarkets-20260918-uMFmRSLvo6fA.bbg",
+            "headers": {
+                "ETag": "\"64adf89d97e8bb4d1c0e7f3064fd0ecd\"",
+                "Digest": "sha512=9c1e0b92643d57f49362c1c2d519a5977043590fed18fc455867e3a76a15809af79f5ed32d192799175ac22e08808a59426fceaf14227cc5294186ce2a8a0432",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:51:23 GMT",
+                "Content-Length": 256
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMFmRSLvo6fA",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "globalMarkets",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "globalMarkets-20260918-uKKoQTvXrq22.csv",
+            "headers": {
+                "ETag": "\"9b7b08241e57523fe9dec7f3085a34ef\"",
+                "Digest": "sha512=6a8eb42146dbb3cefc056145d713d1f72fb046ee6fdd76df992ad18ba1a4c738eb04dc4bf2448f44be26d8a569a867c14f317a8199843341baf74fb6f9bf610f",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:18 GMT",
+                "Content-Length": 951
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uKKoQTvXrq22",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "globalMarkets",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "globalMarkets-20260917-uMFmRSLvo6fA.csv",
+            "headers": {
+                "ETag": "\"49df07556c4f0e2d3b1dbedc5cf8ee4a\"",
+                "Digest": "sha512=83a66a633c521e38669d05374389a5dc8e30bb5e6d8bab70f302a40ae7ea744d1c76b9c2def41702c36adff141f6a4007f78234e3eae690417b91ec34c74e200",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:29 GMT",
+                "Content-Length": 974
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uMFmRSLvo6fA",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "globalMarkets",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "futures-20260923-uh6gfJEtgqdP.bbg",
+            "headers": {
+                "ETag": "\"206777b8628ff08dee9b5c72f29b8dd9\"",
+                "Digest": "sha512=ae8bdfb9b5542b8b4da32474561fe60f4274a544c75899d0926edd46c555421676c82e2f70a7242baeee102730b961b081c321913e90f61dc94790d4610d40f2",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:29:55 GMT",
+                "Content-Length": 249
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uh6gfJEtgqdP",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "futures-20260923-futuresDataReqV1.csv",
+            "headers": {
+                "ETag": "\"72780d0b17b25d5acfe2514e7ac98cd9\"",
+                "Digest": "sha512=d144904ce0b1460bba70b92ae43c36d43ab4b35284f03d908e1b2d792825e66b3a9f7e7a831951bb9d83b96ffcee19c5c5091070d5161460f1f2f3b4ae7c5403",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:23 GMT",
+                "Content-Length": 266
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "futuresDataReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "futures-20260922-uh6gfJEtgqdP.csv",
+            "headers": {
+                "ETag": "\"f1807d7118f92d54c6ed9dd89a6303fd\"",
+                "Digest": "sha512=720009db671f335157741d1f86c99ec1752d56bd74943a6f4f81301ab68bce3d975fca37140852ccdf552dc15dc4b8dff9c7ef433fdf3b0f0eb06a69126ce943",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:18 GMT",
+                "Content-Length": 275
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uh6gfJEtgqdP",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "futures-20260921-uh6gfJEtgqdP.csv",
+            "headers": {
+                "ETag": "\"14efb81d4dc637b599943d2ae207d75e\"",
+                "Digest": "sha512=1c23534c59d492d251900070dfb8099fcc8897f6ac91d673d69b8b527cedaf76dc11f5fe78f62e90c7fa246a4c376a2313996cab913c93b400397fab0dca2380",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:22 GMT",
+                "Content-Length": 273
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uh6gfJEtgqdP",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "futures-20260918-uh6gfJEtgqdP.csv",
+            "headers": {
+                "ETag": "\"d272bf5cb9b12acbfb762cbcdc4c06e0\"",
+                "Digest": "sha512=956b914863ac976b1bf0e3d9b77a27e06babfac95f97077753ad5c3da1cbae9ad265daba621f5d202fead312bc6478dc138a628d4f92500656dad56e7ef1a832",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:19 GMT",
+                "Content-Length": 272
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uh6gfJEtgqdP",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "futures-20260918-u38A9cjekLgw.bbg",
+            "headers": {
+                "ETag": "\"f0433cb35d44ce79e0e8fcd9516d14e6\"",
+                "Digest": "sha512=1b8a714c7a2248e991350e46cfba7038b48ebfd48423556979b0de0175abc7b172cb3341fd74399e230f919f89ebf0d2781f3a15e3104dee39e81100f7f683f9",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:39:46 GMT",
+                "Content-Length": 249
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "u38A9cjekLgw",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "futures-20260917-uh6gfJEtgqdP.csv",
+            "headers": {
+                "ETag": "\"1b6e07258b8ba8a50a3566ba755d2102\"",
+                "Digest": "sha512=8760645b89c4adab8a73ea3407f4b61ee0f71f167a16b4932eb96bb6e7ef83fda87e92108a5c9e90a8131056d8b0ba2412950092639e6a18586d54ebeb8adb05",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:15 GMT",
+                "Content-Length": 269
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uh6gfJEtgqdP",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "futures-20260917-u38A9cjekLgw.csv",
+            "headers": {
+                "ETag": "\"a22c117fa27a0dd375253180fd7f4ea6\"",
+                "Digest": "sha512=079671f2e444f1132ccae8c3a3b7708270da109f0667400d21eba9c774920a7beedff23c220c0631f93f7c02c55d9d5c69b1bf6d259963230c6d91a8e65d7a03",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 09:00:56 GMT",
+                "Content-Length": 266
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "u38A9cjekLgw",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "futures",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T18:00:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260923-uAvmWVwmEV5g.bbg",
+            "headers": {
+                "ETag": "\"4fcd6215daaf9cd55950748909b16a3d\"",
+                "Digest": "sha512=bebce8b4ff12253aec6e2d424ea12989aa7908b6ef521ef599f2a3212c28f40a43bc6dc3c01fc049491f4d3e39b6bca5ff10d69e958f22fe9cc22ec97d9fae2b",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:28:07 GMT",
+                "Content-Length": 256
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAvmWVwmEV5g",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260923-counterpartyDataReqV1.csv",
+            "headers": {
+                "ETag": "\"2e60f68c76ae4b0c2feacbcc446a5643\"",
+                "Digest": "sha512=8b5030f2c935591c485dea94e4c43e8e4b41d7fdbf3db76d7d659d2d9cba14de776e77047b0feaefe6398d87775e6dc6f684f5a8d2b4f0becdc2734f4ef929be",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:21 GMT",
+                "Content-Length": 534
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "counterpartyDataReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260922-uAvmWVwmEV5g.csv",
+            "headers": {
+                "ETag": "\"10b40049cee0c32a85f7960171c36a29\"",
+                "Digest": "sha512=6e5510b48cb78c40042825ffd52d3408a130f5afe26981acd7c797582b82e6962e66a9f17e4650a90eaca761749203a1abfce882707e955da92ef6055ac2c0e2",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:29 GMT",
+                "Content-Length": 543
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAvmWVwmEV5g",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260921-uAvmWVwmEV5g.csv",
+            "headers": {
+                "ETag": "\"34521cc93bae7caa9a6442971f4d14ba\"",
+                "Digest": "sha512=c2217572e8effcb5f74dbb185dc78026364a8d841b7a6e5a129b3cd253af4b5d99b6a2783844a11f1c3eec2541e7ab409336b7cbd5b72601b2c17a33f4b26fdc",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:25 GMT",
+                "Content-Length": 541
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAvmWVwmEV5g",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260918-uQ6wf9icDdVu.bbg",
+            "headers": {
+                "ETag": "\"f95936892a2e42cd58fbaa31dd49d2b7\"",
+                "Digest": "sha512=e2ea2f9a8411bab95a0b73401871fe974f8c0b09595b4f65007a891c45139a9485d15cf2fd5267467a9459f7c835ffa0b4a475296bac4723a9242d509f96b561",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:22:43 GMT",
+                "Content-Length": 255
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uQ6wf9icDdVu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260918-uAvmWVwmEV5g.csv",
+            "headers": {
+                "ETag": "\"b1c08eb70808acbcb761c375d4a2d103\"",
+                "Digest": "sha512=578e6017275a0302517b404c268bc8cfd7c20f884a593edbaa0cb395b3ef9a78deadf126432b01d4bbc68de37d5dd75b34e5fb9c3f90995c3a9f527f6d19c134",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:20 GMT",
+                "Content-Length": 541
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAvmWVwmEV5g",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260917-uQ6wf9icDdVu.csv",
+            "headers": {
+                "ETag": "\"855d68bc6e555198664ca8cfc7ef34ee\"",
+                "Digest": "sha512=2472cde1715d2381aa1115a2e3d29ab3063c1ada1fb25eda5f2306420df627c1ec6178383a4c4b9e62d09c92d5914a48c62d4570787f43c94f1c802354206863",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:34 GMT",
+                "Content-Length": 542
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uQ6wf9icDdVu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "counterpartyData-20260917-uAvmWVwmEV5g.csv",
+            "headers": {
+                "ETag": "\"ffa7f32675880a5979010d7f020d96a8\"",
+                "Digest": "sha512=7e92e465514c2289fd527e4f9ef12b697bc539bfd84a06977e1a829e964c1a0304f60c995ed150e391d3e6394d6de4350591e59aa037cf1eb7100bcb294f8ffc",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:28 GMT",
+                "Content-Length": 543
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uAvmWVwmEV5g",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "counterpartyData",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260923-ugJW53mZPLXD.bbg",
+            "headers": {
+                "ETag": "\"8d3fca4cdb2318a5d3bacee8f7fae617\"",
+                "Digest": "sha512=3cee385ffdcc7681bdd32f3dd40591eb05ab0b58226ae7c2ec01ad119c4a6e2e2af43aec6b712042d12d0b1c71236358850d1c56cf7feff1f0d3d7338728d60d",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 00:19:40 GMT",
+                "Content-Length": 254
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ugJW53mZPLXD",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260923-uYVR4JR2GAM8.bbg",
+            "headers": {
+                "ETag": "\"b1539e95a7284e718c6e237a0fc83889\"",
+                "Digest": "sha512=4f457e43f93407e21794ab59f3b78b31c496c9a5e46ff776f1da9f2153b66cac294a78c2a3be31f421b24626521ed30a8f5d540367eb2a424b0f322b305402b5",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 00:18:17 GMT",
+                "Content-Length": 249
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uYVR4JR2GAM8",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260923-uTDFLNiSLxLe.bbg",
+            "headers": {
+                "ETag": "\"8cea4fd15a7e9cf8384ac57644db9001\"",
+                "Digest": "sha512=492e308d864599c506ba316e6dad2e82788e205186af459736542f19ee32a135c5bfdf535be7d1497aeaf293f6705f1aa61e3b7c56a09a8d1c4acfeb7a5aed85",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:17:07 GMT",
+                "Content-Length": 248
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uTDFLNiSLxLe",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260923-cashBBSWReqV1.csv",
+            "headers": {
+                "ETag": "\"8b9fd4b5967474562c7306c40ee1410f\"",
+                "Digest": "sha512=9616818100830b7aecf76bb0afe1639ea94cb5dd3dba0ff4f3fb7dedd3ad93d728584cd325a691d6e984e01e9c6e4534c27b06104bd267fc3eec063e487902d8",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:22 GMT",
+                "Content-Length": 224
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "cashBBSWReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260922-ugJW53mZPLXD.csv",
+            "headers": {
+                "ETag": "\"728086886aebb7ecbb8ea97112ebd3f4\"",
+                "Digest": "sha512=ecb7456fe318a46d0ac427bf7845cacdb85a07bc7f1983849391a571d85b5ee82d2a82e0afdcf6459b35c2afa7a8c4c7f32355083b2f5f654108db1fcbc68a19",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 09:01:04 GMT",
+                "Content-Length": 251
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ugJW53mZPLXD",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260922-uYVR4JR2GAM8.csv",
+            "headers": {
+                "ETag": "\"4ffd8b2cbaa66ee77f06ba1c6856bac4\"",
+                "Digest": "sha512=cf77973e9c175ac6dae4d1757d871e197b21d2b51447ba0f643e13cffa00bd53bfb79ad20619196cbd4cbac6c7bfe1dd44793311d4f6a2b16957a077fd5feef7",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 09:00:59 GMT",
+                "Content-Length": 226
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uYVR4JR2GAM8",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260922-uTDFLNiSLxLe.csv",
+            "headers": {
+                "ETag": "\"67872c5bc80796680b4ab65774c423a6\"",
+                "Digest": "sha512=bb01c8e70db17d65d1f2a0e9eff0001e1de04bd20e3d1116a742a185d4dade537d0d24ee39a48de4d1efb4935a5f733cd0a625ba16f796016aa1adef7504f190",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:19 GMT",
+                "Content-Length": 229
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uTDFLNiSLxLe",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260921-ugJW53mZPLXD.csv",
+            "headers": {
+                "ETag": "\"5b77e38f4a4eddd17d59fc3bedae36ee\"",
+                "Digest": "sha512=e97c3458dac9bdbd4a8839c2435e5aa55b0b44d2979b97343e77e61d3a645767f1ca6afcbb66072d7bb7b15e53da16acbadb08e1a7f741bff525bdfbe319bcf6",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 09:01:07 GMT",
+                "Content-Length": 250
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ugJW53mZPLXD",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260921-uYVR4JR2GAM8.csv",
+            "headers": {
+                "ETag": "\"f3b0308f9f1db8d36c6eb872a43e6daa\"",
+                "Digest": "sha512=787d630232b2f00540fddd3d5c849ef9b4e02f84760d76c96db39d65b65f23331d36731f36094d9ce43e73e013fa267fdf0402428490847ebbb6b754107495ee",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 09:00:59 GMT",
+                "Content-Length": 224
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uYVR4JR2GAM8",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260921-uTDFLNiSLxLe.csv",
+            "headers": {
+                "ETag": "\"a3cdb1128613b72058dbcd78e6e79983\"",
+                "Digest": "sha512=452a478e9e9c93f52ecc2891c5328eb71a81c9595a463863206649d0790fc9bc1a8c786a7506ad1e2bdd99524fc7f48e036a4fe8bb60570c99072ebf44f4f613",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:23 GMT",
+                "Content-Length": 228
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uTDFLNiSLxLe",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260918-ugJW53mZPLXD.csv",
+            "headers": {
+                "ETag": "\"c8a100a19c9def5e339c6bf6d1cb714d\"",
+                "Digest": "sha512=14b6cf9cd4215cd4f5d7e97de67e5a8c7aaec75f719377d46964b4603ca1b2debc4e68fcb986c85ef71f595b0f95b677b2ef7753f34da248b4a1357f4096fa95",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 09:00:44 GMT",
+                "Content-Length": 248
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ugJW53mZPLXD",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260918-uYVR4JR2GAM8.csv",
+            "headers": {
+                "ETag": "\"6a5f82e13b47c23b3dfcbba67ba2ae78\"",
+                "Digest": "sha512=d1305bf9ef26f21da305b1798e2109915d6d4f5c4498ec86e8b6d196081fbf9e6f1b1489c986293fe09f96387af437b37620e89db8cf7f1d1dd6d11d25fe5c9c",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 09:00:47 GMT",
+                "Content-Length": 223
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uYVR4JR2GAM8",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260918-uTDFLNiSLxLe.csv",
+            "headers": {
+                "ETag": "\"cace633c47e1f3372cfb032d71a29910\"",
+                "Digest": "sha512=59db60f2aec5114c9709524eb82b7ec49bd285cb1bbb82f354b21d849c59e97519ca54445011b0b3b6ce15bcb6ecf7604eb4b367897920b696001943406e8b72",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:14 GMT",
+                "Content-Length": 226
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uTDFLNiSLxLe",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260917-ugJW53mZPLXD.csv",
+            "headers": {
+                "ETag": "\"9e73f4cf362f9f2ad3f23b1713ffbd94\"",
+                "Digest": "sha512=cc438a4179db49345c1acf78d7db6fc3710d6ed87671fae2578aee8579a57125f0a497317d9818fd022add400f2a0550877060384570d02ee96c549ec14b7669",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 09:01:12 GMT",
+                "Content-Length": 250
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ugJW53mZPLXD",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260917-uYVR4JR2GAM8.csv",
+            "headers": {
+                "ETag": "\"44c528193b2bd247f312ed7b0633bbe5\"",
+                "Digest": "sha512=97ba1b6dd60d0368a992aa179ff40fb89742e4ce9d14ac84fe58231d5078b841c2ec94cbe5e8f29c9fb2c3632aedec16b059ec97bc087615147fcf86e6ec6ebc",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 09:01:11 GMT",
+                "Content-Length": 226
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uYVR4JR2GAM8",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T18:00:00"
+            }
+        },
+        {
+            "key": "cashBBSW-20260917-uTDFLNiSLxLe.csv",
+            "headers": {
+                "ETag": "\"da5c04a292c607ffe90bddba7fe155ad\"",
+                "Digest": "sha512=1f0cde23c3fc72d1465b34961f35c47159492edf03864f0b29912a786879d82d410e75b152b6bf42bba50fec7930bfbb230a692d9c36328d0ea6596ecfc04a64",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:23 GMT",
+                "Content-Length": 223
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uTDFLNiSLxLe",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "cashBBSW",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260923-uR2vnNa6UV95.bbg",
+            "headers": {
+                "ETag": "\"18c38f199e89fcd34be2141472006099\"",
+                "Digest": "sha512=19fa1067b2b1ac37fece5ee8465d59051bc8e53710ed3c917140cb4dd8c8025a13eae63e651bfd1ba03cfdba535d34c27c5b3179cc0fdbbafd04a6c3f5ea5692",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:40:13 GMT",
+                "Content-Length": 251
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uR2vnNa6UV95",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260923-basis6s3sDataReqV1.csv",
+            "headers": {
+                "ETag": "\"2fcf1b22b32663268e61c658129f740b\"",
+                "Digest": "sha512=b9e3b43899db8e426695863a97275c9ada2614411f432a9d8e2d0d36ea5c947e432f015f12fb04fe266fa040303f788c376501ea1fef3f1e723b96ccc9fad642",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:29 GMT",
+                "Content-Length": 295
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "basis6s3sDataReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260922-uR2vnNa6UV95.csv",
+            "headers": {
+                "ETag": "\"11b0d14eefbd050a564406c413a8db1b\"",
+                "Digest": "sha512=f726830c0c13695bb4bae43b77a03d99fa4dcdff5f27b2ee65583c1706be837c65820bbc390c64abf8ae008b04ba7fe9deb37f770efdbeb1b1b0a95c8595d990",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:23 GMT",
+                "Content-Length": 294
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uR2vnNa6UV95",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260921-uR2vnNa6UV95.csv",
+            "headers": {
+                "ETag": "\"5a3a1b8f38a4084ce528b0afffbfb0a2\"",
+                "Digest": "sha512=e6af605db16837b9609a2f98d70a3c6e1a3b9dc02d26d0ab8774655ca3bebef5f7d0c0a7c4bdd4b714ce7d8ebaeeb958210cf76d59fd17e8ab7cf3f057caa9cc",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:24 GMT",
+                "Content-Length": 293
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uR2vnNa6UV95",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260918-ugogvCUCebxB.bbg",
+            "headers": {
+                "ETag": "\"08fe3298b1f339df24f7af1194017ec8\"",
+                "Digest": "sha512=69c52cf148e3cce229f3a496527b56af096eda13c670add40ce31d4b6df7fcc927a1cd32dd64a63e3e72a262d426fd4b55f1c005230bff5a652ef86f394ad4af",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:41:31 GMT",
+                "Content-Length": 254
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ugogvCUCebxB",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260918-uR2vnNa6UV95.csv",
+            "headers": {
+                "ETag": "\"0cafdb5316903fa64bf21e48b24ee8e9\"",
+                "Digest": "sha512=39ab130e0d7c515a5e07b69664a5fbf0153eab1da7eff9a65862cf42445b4b36d6ca2d754ace9eec312b6a5eeb58ca8f8a3e97e5825343c4137a9b72d95e6db5",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:28 GMT",
+                "Content-Length": 299
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uR2vnNa6UV95",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260917-ugogvCUCebxB.csv",
+            "headers": {
+                "ETag": "\"f831863bf602a8d3e351f16eef211468\"",
+                "Digest": "sha512=828e76b966d7f1fdff0fcab014c013a1e3a51bc6a2f66dfb89ba970cc43f5b0d1e5e821b235ef7850a00877c8bb0d695fb12ab1675dfb4915a6ab3746c06db87",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 09:01:08 GMT",
+                "Content-Length": 297
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ugogvCUCebxB",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T18:00:00"
+            }
+        },
+        {
+            "key": "basis6s3s-20260917-uR2vnNa6UV95.csv",
+            "headers": {
+                "ETag": "\"083b56dfa9d1e684586e7ddcfc6b2fe4\"",
+                "Digest": "sha512=0edd5412cb1beec91857fed424adc5ed5ded046d00a04ef141871f6f26485af0007e0978756cc5a62beb1d0b015dd823769bec13f66a2ccd10ef5b8d47643851",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:20 GMT",
+                "Content-Length": 295
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uR2vnNa6UV95",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis6s3s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260923-uERmT1caJ7qu.bbg",
+            "headers": {
+                "ETag": "\"33621f5adb453a24074e02e417c761fe\"",
+                "Digest": "sha512=9bb4e4d0560fdbc6a7022632c49bb1b22b5565ab1fd10fc1632d86d045a01c80fe4008a5150a9694a31f854a8d7ec56665ccc6740d6ecbb909392cafecbb892f",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Wed, 23 Sep 2026 04:45:26 GMT",
+                "Content-Length": 250
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uERmT1caJ7qu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T00:00:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260923-basis3s1sDataReqV1.csv",
+            "headers": {
+                "ETag": "\"b48315b7f6e87aee918091abd1f990de\"",
+                "Digest": "sha512=b43a9246d5a40eeb418dd626d8837cf0ba8223262073cf87d8a7655d9ef114c776ed420625014c239ab55f15d55504ed03d4f877a2779eb25c6a4507c32e064b",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 07:30:24 GMT",
+                "Content-Length": 294
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "basis3s1sDataReqV1",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T16:30:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260922-uERmT1caJ7qu.csv",
+            "headers": {
+                "ETag": "\"03f8c57e1ccaf15987b665b4ca7e3fd6\"",
+                "Digest": "sha512=fbefe6407df35c419d27b42cb9278007d289cb936af7e5f20687d6953fad15a2f287ecea313bb585ba15f6c290fddf7529fe3cee07e574c69b422f9ea0de97a6",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 07:30:23 GMT",
+                "Content-Length": 297
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uERmT1caJ7qu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T16:30:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260921-uERmT1caJ7qu.csv",
+            "headers": {
+                "ETag": "\"ec89415d609e6bff3d688dea1ea08ab6\"",
+                "Digest": "sha512=104e9aeed19a2c4e06af97b36cb765a58eacafb63d8a4e8c5306f591dd94fd3cea510123974d2783f7accd29bf36f8a8e5ce354303f256f3c29c530bc192e40c",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Mon, 21 Sep 2026 07:30:21 GMT",
+                "Content-Length": 304
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uERmT1caJ7qu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-21T16:30:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260918-ubUPSnwQbbDY.bbg",
+            "headers": {
+                "ETag": "\"69064b78d551046334b3ed9d9d561a58\"",
+                "Digest": "sha512=6adee07d574f220d3dd00ff423a987b526974af6ee5c006f3d948f31f636fdcaaf6243338311e1aa6a3014d716c24902885a1c095dad2494ca0ed6b7213e49f2",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Fri, 18 Sep 2026 01:40:58 GMT",
+                "Content-Length": 253
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ubUPSnwQbbDY",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T00:00:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260918-uERmT1caJ7qu.csv",
+            "headers": {
+                "ETag": "\"5a0c38fa2f39d27dc967a4c64a539470\"",
+                "Digest": "sha512=432d6afb78b9c60574c552348a08bffe6d3cdd6c5fe52fc92795f1aa4dabe2baaed0943bb706ae3b629ce866d0e38675a33ad30a642a4c89ac2973e1938b4e2f",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Fri, 18 Sep 2026 07:30:14 GMT",
+                "Content-Length": 297
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uERmT1caJ7qu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-18T16:30:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260917-ubUPSnwQbbDY.csv",
+            "headers": {
+                "ETag": "\"674633e30d94c313a1620e94c46519ce\"",
+                "Digest": "sha512=9d0355f1533c4ebdf18390f8212464b73d94457d5c832034b96ced731f6a603701770fb490d3bb5f9916f782f611de6a1711be8e9ff11428344fc4ffc454c9d7",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 09:01:26 GMT",
+                "Content-Length": 301
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "ubUPSnwQbbDY",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T18:00:00"
+            }
+        },
+        {
+            "key": "basis3s1s-20260917-uERmT1caJ7qu.csv",
+            "headers": {
+                "ETag": "\"e8c267af3f87e68b4ebf7f2d547ef8b0\"",
+                "Digest": "sha512=b6aaa566ad9748d52e6259442fdf734c8ca9e81a7ce8f8a28ab8cad467a512b6f919f90cd82beb8dd6dee8cd3af1b931872610c112b225c9975afed3890868b4",
+                "Content-Type": "text/csv; header=present; charset=utf-8",
+                "Last-Modified": "Thu, 17 Sep 2026 07:30:24 GMT",
+                "Content-Length": 302
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uERmT1caJ7qu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "basis3s1s",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-17T16:30:00"
+            }
+        },
+        {
+            "key": "SampleTickHistoryRequest-20260922-uGT2ZmaPWptL.tar",
+            "headers": {
+                "ETag": "\"c90cfe763053621c8ed5d6b7ace9c78d\"",
+                "Digest": "sha512=543eeadb068fa35a5493ccc655f91719be32b1f6c912526d8b1ee7e290185b7943b2c256c9a58b6386bae91dec1205c91e60792effc853654ab5f5929018e387",
+                "Content-Type": "application/x-tar",
+                "Last-Modified": "Tue, 22 Sep 2026 06:15:14 GMT",
+                "Content-Length": 332
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uGT2ZmaPWptL",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleTickHistoryRequest",
+                "DL_REQUEST_TYPE": "TickHistoryRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T15:15:07"
+            }
+        },
+        {
+            "key": "SampleHistoryRequest-20260922-uWF5PEXw5EM4.json",
+            "headers": {
+                "ETag": "\"da750928e95ba98d0108c6385bd1d974\"",
+                "Digest": "sha512=7fe06a5c5fcdb5b21842d4b1232d9b179cd73ff9ae768ecb843117dd6cc40a915e25c231fddb5b4b70102abfe3e6d2f6d981f80433ae5691762dc3254e5580ca",
+                "Content-Type": "application/json; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 06:15:44 GMT",
+                "Content-Length": 192
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uWF5PEXw5EM4",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleHistoryRequest",
+                "DL_REQUEST_TYPE": "HistoryRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T15:15:38"
+            }
+        },
+        {
+            "key": "SampleHistoryRequest-20260922-uR8GYVJD38tn.json",
+            "headers": {
+                "ETag": "\"c1571f596f1eee44a7bb0c95c2a1565a\"",
+                "Digest": "sha512=3792fe7c5215e4c27941315b92699daa2016e3dc6afd9ab21010253d056b5ed99a80ed34a1b5c02c69424bc90f56adb456fb8a0ba13d13edc59e76f99cba9366",
+                "Content-Type": "application/json; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 01:30:36 GMT",
+                "Content-Length": 193
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uR8GYVJD38tn",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleHistoryRequest",
+                "DL_REQUEST_TYPE": "HistoryRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T10:30:28"
+            }
+        },
+        {
+            "key": "SampleDataRequest-20260923-uSsaxAZVjqeb.json",
+            "headers": {
+                "ETag": "\"3c3f06ab516611e7a8be92b21531ee77\"",
+                "Digest": "sha512=a52e23b51e59c2506c2e16b698bbce2f21a7e7519db7b2b1e9cfc9dd8a7ff0fa44b0700f6d7ee3eab7d61f43d5f5ea121f2bcfaba8591fe96d2c1d194b303fd6",
+                "Content-Type": "application/json; charset=utf-8",
+                "Last-Modified": "Wed, 23 Sep 2026 00:57:07 GMT",
+                "Content-Length": 244
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uSsaxAZVjqeb",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleDataRequest",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-23T09:56:58"
+            }
+        },
+        {
+            "key": "SampleDataRequest-20260922-uVRTXtTSo7Xj.json",
+            "headers": {
+                "ETag": "\"5dd0d3ffca4b9174b7465692c18eb57d\"",
+                "Digest": "sha512=6f023e01095e7ebdb87ab7b1411b57875c310aa9944c4598b18346127972824801f067cb79779f728345312ca242b4ae4dbc7e10e66a50891ca1cd213b9c24dc",
+                "Content-Type": "application/json; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 01:52:54 GMT",
+                "Content-Length": 244
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uVRTXtTSo7Xj",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleDataRequest",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T10:52:45"
+            }
+        },
+        {
+            "key": "SampleDataRequest-20260922-uJVYBpqB7ebS.json",
+            "headers": {
+                "ETag": "\"d44143eb35a1b0df97f1e8c5e1e87fde\"",
+                "Digest": "sha512=e07abad515486be21ef6749683e6e5e156ce6d1f68911049f0d650fd1c19e8b89b4112bf614abd8625d57c52be0321de9f6514f0953a99dca8626f32ced0e383",
+                "Content-Type": "application/json; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 01:30:06 GMT",
+                "Content-Length": 243
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uJVYBpqB7ebS",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleDataRequest",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T10:29:55"
+            }
+        },
+        {
+            "key": "SampleDataRequest-20260922-u62R6wpHLbDu.json",
+            "headers": {
+                "ETag": "\"0c321a55b4a5a37bdc555bb91174c520\"",
+                "Digest": "sha512=0ff439309ecf650ec5a936b31bbb316c69db39ee2172dc173698c84c43909d62a5da7a7433f61c9c0ed274059c6b0e4492a21d8e85b60c56d884ba5d86205407",
+                "Content-Type": "application/json; charset=utf-8",
+                "Last-Modified": "Tue, 22 Sep 2026 06:15:28 GMT",
+                "Content-Length": 243
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "u62R6wpHLbDu",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleDataRequest",
+                "DL_REQUEST_TYPE": "DataRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T15:15:19"
+            }
+        },
+        {
+            "key": "SampleCorporateActionsRequest-20260922-uRRGGG6ASB2U.bbg",
+            "headers": {
+                "ETag": "\"b1644548c6fe50ae158842107d987465\"",
+                "Digest": "sha512=31442908400f9e12e9237fa670e917ad025674b4c9b045ea9b246c99952a8ba8cd3282fa920723bc56b406780b4104fc1040c6c546957b5f005a105d806de112",
+                "Content-Type": "text/vnd.blp.dl.std",
+                "Last-Modified": "Tue, 22 Sep 2026 01:31:29 GMT",
+                "Content-Length": 386
+            },
+            "metadata": {
+                "DL_REQUEST_ID": "uRRGGG6ASB2U",
+                "DL_SNAPSHOT_TZ": "JST",
+                "DL_REQUEST_NAME": "SampleCorporateActionsRequest",
+                "DL_REQUEST_TYPE": "ActionsRequest",
+                "DL_SNAPSHOT_START_TIME": "2026-09-22T10:30:34"
+            }
+        }
+    ],
+    "view": {
+        "next": ""
+    }
+}

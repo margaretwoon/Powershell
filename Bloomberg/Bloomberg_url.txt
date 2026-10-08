@@ -1,0 +1,9 @@
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/swaps-20260923-swapsDataReqV1.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/futures-20260923-futuresDataReqV1.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/overnightIndexSwaps-20260923-onIndexSwapsDataReqV1.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/isin-20260923-uAnQP5HXaZXZ.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/globalMarkets-20260923-globalMarketsReqV1.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/counterpartyData-20260923-counterpartyDataReqV1.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/cashBBSW-20260923-cashBBSWReqV1.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/basis6s3s-20260923-basis6s3sDataReqV1.csv
+GET https://api.bloomberg.com/eap/catalogs/67974/content/responses/basis3s1s-20260923-basis3s1sDataReqV1.csv

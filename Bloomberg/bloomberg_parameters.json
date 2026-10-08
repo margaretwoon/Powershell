@@ -1,0 +1,45 @@
+{
+    "catalog": "67974",
+    "collections": {
+        "daily": [
+            {
+                "requestName": "cashBBSW",
+                "requestId": "cashBBSWReqV1"
+            },
+            {
+                "requestName": "globalMarkets",
+                "requestId": "globalMarketsReqV1"
+            },
+            {
+                "requestName": "counterpartyData",
+                "requestId": "counterpartyDataReqV1"
+            },
+            {
+                "requestName": "futures",
+                "requestId": "futuresDataReqV1"
+            },
+            {
+                "requestName": "swaps",
+                "requestId": "swapsDataReqV1"
+            },
+            {
+                "requestName": "overnightIndexSwaps",
+                "requestId": "onIndexSwapsDataReqV1"
+            },
+            {
+                "requestName": "basis3s1s",
+                "requestId": "basis3s1sDataReqV1"
+            },
+            {
+                "requestName": "basis6s3s",
+                "requestId": "basis6s3sDataReqV1"
+            }
+        ],
+        "monthly": [
+            {
+                "requestName": "isin",
+                "requestId": "isinDataReqV1"
+            }
+        ]
+    }
+}
